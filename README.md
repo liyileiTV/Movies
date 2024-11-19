@@ -1,9 +1,9 @@
 GitHub：
 
-https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.txt
+Data：https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.txt
 
-https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.png
+Image：https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.png
 
-https://raw.githubusercontent.com/liyileiTV/Movies/main/box.txt
+box：https://raw.githubusercontent.com/liyileiTV/Movies/main/box.txt
 
-https://raw.githubusercontent.com/liyileiTV/Movies/main/ysc.txt
+ysc：https://raw.githubusercontent.com/liyileiTV/Movies/main/ysc.txt
