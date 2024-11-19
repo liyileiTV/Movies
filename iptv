@@ -185,9 +185,9 @@ CCTV-17 农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.li
 广东深圳卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000024/index.m3u8
 中国香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 中国澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-中国教育-01,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-中国教育-02,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-中国教育-04,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+中国教育-01,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000027253/1.m3u8
+中国教育-02,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266004/1.m3u8
+中国教育-04,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000012123/1.m3u8
 
 中国山东,#genre#
 中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
