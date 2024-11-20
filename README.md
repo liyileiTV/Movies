@@ -1,8 +1,8 @@
 GitHub：
 
-Data：https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.txt
+data：https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.txt
 
-Image：https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.png
+image：https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.png
 
 box：https://raw.githubusercontent.com/liyileiTV/Movies/main/box.txt
 
