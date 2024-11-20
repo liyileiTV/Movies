@@ -1,4 +1,4 @@
-GitHub：
+Github：
 
 data：https://raw.githubusercontent.com/liyileiTV/Movies/main/iptv.txt
 
