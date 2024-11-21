@@ -1,6 +1,6 @@
 {
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00",
-  "wallpaper": "https://gitee.com/liyileitv/movies/raw/main/box.png",
+  "wallpaper": "https://ghp.ci/https://raw.githubusercontent.com/liyileitv/movies/main/box.png",
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
@@ -237,7 +237,7 @@
     },
     {
       "key": "csp_Xb6v",
-      "name": "🐤┃6V磁力┃影视",
+      "name": "🐤┃磁力┃影视",
       "type": 3,
       "api": "csp_Xb6v",
       "playerType": "2"
@@ -514,7 +514,7 @@
       "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
     },
     {
-      "name": "肥猫最可爱",
+      "name": "电视盒子",
       "type": 1,
       "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
       "ext": {
@@ -554,7 +554,7 @@
       "name": "GiteeTV",
       "type": 0,
       "playerType": 1,
-      "url": "https://gitee.com/liyileitv/movies/raw/main/iptv",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/liyileitv/movies/main/iptv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
