@@ -231,40 +231,39 @@ CCTV-17 农业农村,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.li
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-龍華電影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龍華日韓,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 靖天電影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-娛樂新聞,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+龍華電影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龍華日韓,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-東方衛視,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-亞洲新聞,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+娛樂新聞,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 無線新聞1,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞2,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVBJ1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVBS新聞1,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞2,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-TVB DRAMA,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB drama,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 Pearl,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-Pearl DRAMA,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-Viutv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-Viutv6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+Pearl drama,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+ViuTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 1,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-myTV SUPER 2,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-myTV SUPER 3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-myTV SUPER 4,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+myTV Super 1,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+myTV Super 2,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+myTV Super 3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+myTV Super 4,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 C+,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+Cna,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
@@ -277,6 +276,7 @@ Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 央视IPv6,#genre#
 CCTV-01 综合,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
