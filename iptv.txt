@@ -39,6 +39,13 @@ CCTV-17 农业农村,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/
 CCTV-17 农业农村,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
 
 卫视频道,#genre#
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+环球卫视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 山东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012807/1.m3u8
 山西卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
@@ -106,9 +113,8 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 深圳卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
 农林卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
-延边卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 安多卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000022124/1.m3u8
+延边卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8
 康巴卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8
 黑龙江卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/1.m3u8
@@ -152,27 +158,3 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 安丘综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8
 昌乐综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001033/index.m3u8
 奎文频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001027/index.m3u8
-
-香港台湾,#genre#
-环球卫视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
-龙华电影,https://stream1.freetv.fun/long-hua-dian-ying-1.ctv
-龙华偶像,https://stream1.freetv.fun/long-hua-ou-xiang-1.ctv
-龙华经典,https://stream1.freetv.fun/long-hua-jing-dian-1.ctv
-龙华日韩,https://stream1.freetv.fun/long-hua-ri-han-1.ctv
-龙华戏剧,https://stream1.freetv.fun/long-hua-xi-ju-1.ctv
-龙华卡通,https://stream1.freetv.fun/long-hua-qia-tong-1.ctv
-靖天电影,https://stream1.freetv.fun/jing-tian-dian-ying-3.ctv
-靖天映画,https://stream1.freetv.fun/jing-tian-ying-hua-3.ctv
-靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-2.ctv
-靖天欢乐,https://stream1.freetv.fun/jing-tian-huan-le-3.ctv
-靖天育乐,https://stream1.freetv.fun/jing-tian-yu-le-1.ctv
-靖天综合,https://stream1.freetv.fun/jing-tian-zong-he-3.ctv
-靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
-靖天国际,https://stream1.freetv.fun/jing-tian-guo-ji-3.ctv
-靖天日本,https://stream1.freetv.fun/jing-tian-ri-ben-5.ctv
-靖天卡通,https://stream1.freetv.fun/jing-tian-qia-tong-2.ctv
-靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-2.ctv
-靖洋卡通,https://stream1.freetv.fun/jing-yang-qia-tong-1.ctv
