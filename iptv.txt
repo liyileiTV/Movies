@@ -102,9 +102,7 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 三沙卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 农林卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000022124/1.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8
 康巴卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8
 深圳卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
@@ -179,17 +177,10 @@ Pearl,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 Pearl drama,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 ViuTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-myTV Super 1,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-myTV Super 2,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-myTV Super 3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-myTV Super 4,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 M 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 M 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 M U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 CNA,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
@@ -198,4 +189,3 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 NHK World,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-东方卫视国际,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
