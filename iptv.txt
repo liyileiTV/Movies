@@ -129,19 +129,19 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 山东文旅,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 山东体育休闲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
 山东居家购物,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
-潍坊新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000215/index.m3u8
-潍坊经济生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000216/index.m3u8
-潍坊影视综艺,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000217/index.m3u8
-潍坊科教文旅,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000218/index.m3u8
-高密综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001089/index.m3u8
-昌邑综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001083/index.m3u8
-诸城综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001004/index.m3u8
-寿光综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001000/index.m3u8
-青州综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001042/index.m3u8
-临朐综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001085/index.m3u8
-安丘综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001015/index.m3u8
-昌乐综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001033/index.m3u8
-奎文频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001027/index.m3u8
+潍坊新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
+潍坊经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
+潍坊影视综艺,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
+潍坊科教文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
+高密综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001089/index.m3u8
+昌邑综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001083/index.m3u8
+诸城综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001004/index.m3u8
+寿光综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001000/index.m3u8
+青州综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001042/index.m3u8
+临朐综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001085/index.m3u8
+安丘综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8
+昌乐综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001033/index.m3u8
+奎文频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001027/index.m3u8
 
 港台国际,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -174,15 +174,7 @@ Pearl,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 Pearl drama,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 ViuTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-M 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-M 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-M U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-CNA,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Animax,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-NHK World,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
