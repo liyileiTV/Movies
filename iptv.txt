@@ -240,5 +240,13 @@ CGTN-06 阿语,http://39.134.136.161:6610/000000001000/1000000006000280001/index
 中国教育4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
 中国教育4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 
-港台国际,#genre#
-http://aktv.top/live.txt
+"lives": [
+    {
+      "name": "GithubTV",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://aktv.top/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
