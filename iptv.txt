@@ -228,7 +228,6 @@ CGTN-06 阿语,http://39.134.136.161:6610/000000001000/1000000006000280001/index
 财富天下,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8?IASHttpSessionId=
 都市剧场,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000630/index.m3u8
 都市剧场,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId=
-精彩影视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=
 求索纪录,http://39.134.136.161:6610/000000001000/6000000002000032052/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
 求索生活,http://39.134.136.161:6610/000000001000/6000000002000003382/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000003382
 求索动物,http://39.134.136.161:6610/000000001000/6000000002000010046/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000010046
@@ -290,6 +289,7 @@ France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
