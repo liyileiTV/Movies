@@ -121,10 +121,10 @@ CGTN-06 阿语,http://39.134.136.161:6610/000000001000/1000000006000280001/index
 吉林卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId=
 兵团卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
 兵团卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000071/index.m3u8?IASHttpSessionId=
-三沙卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
-三沙卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=
 农林卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 农林卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId=
+三沙卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
+三沙卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=
 延边卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId=
 深圳卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
 深圳卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8?IASHttpSessionId=
