@@ -37,6 +37,18 @@ CCTV-16 奥林匹克,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/in
 CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV-17 农业农村,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
+CGTN-01 英语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
+CGTN-01 英语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009569/1.m3u8
+CGTN-02 纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
+CGTN-02 纪录,http://[2409:8087:5e00:24::1e]:6060/000000001000/8428799834696888424/1.m3u8
+CGTN-03 俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+CGTN-03 俄语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280004/1.m3u8
+CGTN-04 法语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
+CGTN-04 法语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280003/1.m3u8
+CGTN-05 西语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
+CGTN-05 西语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280002/1.m3u8
+CGTN-06 阿语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+CGTN-06 阿语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280001/1.m3u8
 
 卫视频道,#genre#
 山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
@@ -163,6 +175,8 @@ CCTV-17 农业农村,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/in
 哈哈炫动,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000050/index.m3u8
 黑莓动画,http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
 黑莓电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
+纪实科教,http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8
+哒啵赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8
 中国教育1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 中国教育2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 中国教育4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
