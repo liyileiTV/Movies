@@ -5,25 +5,25 @@
       "name": "aktv",
       "type": "0",
       "pass": true,
-      "url": "http://aktv.top/live.m3u",
+      "url": "http://aktv.top/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
     {
-      "key": "J91",
-      "name": "🔞001|看片",
+      "key": "Cg51",
+      "name": "🔞001|吃瓜",
       "type": 3,
-      "api": "csp_J91",
+      "api": "csp_Cg51",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "Cg51",
-      "name": "🔞002|吃瓜",
+      "key": "J91",
+      "name": "🔞002|看片",
       "type": 3,
-      "api": "csp_Cg51",
+      "api": "csp_J91",
       "searchable": 1,
       "filterable": 1
     },
@@ -80,7 +80,7 @@
     },
     {
       "key": "zp024",
-      "name": "🔞009|天堂",
+      "name": "🔞009|博天",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -161,8 +161,8 @@
       "filterable": 1
     },
     {
-      "key": "💞博天堂💞",
-      "name": "🔞018|天堂",
+      "key": "💞博博天💞",
+      "name": "🔞018|博天",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 0,
@@ -170,7 +170,7 @@
     },
     {
       "key": "💞美少女资源💞",
-      "name": "🔞019|美女",
+      "name": "🔞019|少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 0,
@@ -408,7 +408,7 @@
     },
     {
       "key": "*美少女",
-      "name": "🔞048|美女",
+      "name": "🔞048|少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -443,8 +443,8 @@
       "filterable": 0
     },
     {
-      "key": "*天堂福利",
-      "name": "*🔞052|天堂",
+      "key": "*博天福利",
+      "name": "*🔞052|博天",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 0,
@@ -562,7 +562,7 @@
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist"
     },
     {
-      "key": "*博天堂",
+      "key": "*博博天",
       "name": "🔞068|博天",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
@@ -580,8 +580,8 @@
       "filterable": 0
     },
     {
-      "key": "*天堂福利",
-      "name": "🔞070|天堂",
+      "key": "*博天福利",
+      "name": "🔞070|博天",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 0,
