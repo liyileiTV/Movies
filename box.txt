@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00",
+  "spider": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290",
   "wallpaper": "https://ghp.ci/https://raw.githubusercontent.com/liyileitv/movies/main/box.png",
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
   "sites": [
@@ -26,6 +26,20 @@
       "playerType": 2
     },
     {
+      "key": "csp_FeiMaoUC",
+      "name": "⚡┃闪电┃优汐",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://feimaouc.cloud:666",
+          "http://feimao.tech:666"
+        ],
+        "url_key": "FeiMaoUC"
+      }
+    },
+    {
       "key": "csp_Duopan",
       "name": "🖍︎┃蜡笔┃影视",
       "type": 3,
@@ -38,7 +52,22 @@
           "http://feimaoai.site",
           "https://mihdr.top"
         ],
-        "url_key": "Duopan"
+        "url_key": "Duopan2"
+      }
+    },
+    {
+      "key": "csp_Bili",
+      "name": "🅱┃️哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "http://uz.xn--z7x900a.com/bili.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
       }
     },
     {
@@ -69,28 +98,8 @@
       "ext": "http://rzys.xyz/"
     },
     {
-      "key": "csp_Netfixtv",
-      "name": "💌┃️至臻┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://xiaomiai.site"
-        ],
-        "url_key": "Netfixtv",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 450,
-          "threads": 10
-        }
-      }
-    },
-    {
-      "key": "csp_FeiMaoUC",
-      "name": "🐼┃肥猫┃UC",
+      "key": "csp_XMUC",
+      "name": "🍚┃小米┃UC",
       "type": 3,
       "api": "csp_Duopan",
       "filterable": 1,
@@ -100,7 +109,29 @@
           "http://ucmi.fun",
           "http://www.ucmi.fun"
         ],
-        "url_key": "FeiMaoUC"
+        "url_key": "XMUC"
+      }
+    },
+    {
+      "key": "csp_Netfixtv",
+      "name": "💌┃️至臻┃影视",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://www.xhww.net",
+          "http://xhww.net",
+          "https://xiaomiai.site"
+        ],
+        "url_key": "Netfixtv2",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
       }
     },
     {
@@ -114,12 +145,6 @@
       "name": "🛳️┃看客┃影视",
       "type": 3,
       "api": "csp_Kanke"
-    },
-    {
-      "key": "csp_Dadag",
-      "name": "🐢️┃达龟┃影视",
-      "type": 3,
-      "api": "csp_Dadag"
     },
     {
       "key": "csp_Qiyou",
@@ -148,7 +173,7 @@
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/ng_open.js"
+      "api": "csp_NanGua"
     },
     {
       "key": "csp_J",
@@ -162,7 +187,7 @@
       "name": "💖┃Ivdy┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http://js.xn--z7x900a.com/json/ivdy.json",
+      "ext": "https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null",
       "searchable": 0
     },
     {
@@ -237,25 +262,10 @@
     },
     {
       "key": "csp_Xb6v",
-      "name": "🐤┃磁力┃影视",
+      "name": "🐤┃6V磁力┃影视",
       "type": 3,
       "api": "csp_Xb6v",
       "playerType": "2"
-    },
-    {
-      "key": "低端",
-      "name": "🛣┃低端┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
-      "ext": "http://js.xn--z7x900a.com/js/ddys.js"
-    },
-    {
-      "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.肥猫.live/json/虎虎.json"
     },
     {
       "key": "csp_SP360",
@@ -387,13 +397,13 @@
       "key": "drpy_js_310直播",
       "name": "🏀┃体育┃直播",
       "type": 3,
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "http://js.xn--z7x900a.com/js/310直播.js"
+      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
     },
     {
       "key": "米搜",
@@ -408,14 +418,6 @@
       "type": 3,
       "api": "csp_PanSearch",
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "drpy_哔哩",
-      "name": "🅱┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
     },
     {
       "key": "儿童",
