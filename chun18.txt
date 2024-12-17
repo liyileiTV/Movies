@@ -3,10 +3,10 @@
   "https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;7d0ae69d38c5345dad77eafef1ad620f",
   "lives": [
     {
-      "name": "aktv",
+      "name": "github : gh-proxy.com",
       "type": "0",
       "pass": true,
-      "url": "http://aktv.top/live.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/liyileitv/movies/main/iptv.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -1710,5 +1710,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://picsum.photos/1280/720/?blur=10"
+  "wallpaper": "https://gh-proxy.com/raw.githubusercontent.com/liyileitv/movies/main/box.png"
 }
