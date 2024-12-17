@@ -1,6 +1,6 @@
 {
   "spider": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290",
-  "wallpaper": "https://ghproxy.cn/https://raw.githubusercontent.com/liyileitv/movies/main/box.png",
+  "wallpaper": "https://ghproxy.cc/https://raw.githubusercontent.com/liyileitv/movies/main/box.png",
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
@@ -553,10 +553,10 @@
   ],
   "lives": [
     {
-      "name": "github-ghproxy.cn",
+      "name": "github-ghproxy.cc",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/liyileitv/movies/main/iptv.txt",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/liyileitv/movies/main/iptv.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
