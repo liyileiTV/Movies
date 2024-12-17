@@ -1,6 +1,6 @@
 {
-  "spider": 
-  "https://ghp.ci/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;7d0ae69d38c5345dad77eafef1ad620f",
+  "spider":
+  "https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;7d0ae69d38c5345dad77eafef1ad620f",
   "lives": [
     {
       "name": "aktv",
