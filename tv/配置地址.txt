@@ -1,8 +1,0 @@
-本地：
-clan://localhost/tvbox/feimao/feimao.json
-
-网络：
-https://ghpr.cc/raw.githubusercontent.com/liyileitv/movies/main/tv/box.json
-
-影视仓：
-https://ghpr.cc/raw.githubusercontent.com/liyileitv/movies/main/tv/ysc.json
