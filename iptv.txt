@@ -56,9 +56,6 @@ CGTN-06 阿语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.
 西藏卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
 辽宁卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
 吉林卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
-兵团卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
-农林卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
-三沙卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
 深圳卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
 厦门卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
 黑龙江卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
@@ -118,6 +115,7 @@ CGTN-06 阿语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.
 港台国际,#genre#
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
@@ -177,4 +175,5 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
