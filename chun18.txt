@@ -1,6 +1,6 @@
 {
   "spider":
-  "https://ghproxy.cn/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;7d0ae69d38c5345dad77eafef1ad620f",
+  "https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;7d0ae69d38c5345dad77eafef1ad620f",
   "lives": [
     {
       "name": "github-ghproxy.cn",
