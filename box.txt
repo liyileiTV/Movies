@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆",
-      "name": "🍓豆瓣┃推荐",
+      "name": "🍚豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
@@ -664,7 +664,7 @@
     },
     {
       "key": "fan",
-      "name": "🍓吃饭┃太硬",
+      "name": "🍚吃饭┃太硬",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
